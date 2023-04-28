@@ -1,0 +1,22 @@
+{
+  "name": "methodology-task",
+  "version": "1.0.0",
+  "description": "explain docker features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adosh74/Methodology-Task.git"
+  },
+  "author": "Mohamed Shebl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adosh74/Methodology-Task/issues"
+  },
+  "homepage": "https://github.com/Adosh74/Methodology-Task#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
