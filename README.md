@@ -1,7 +1,7 @@
 # Methodology-Task
 
 # Requirements
-/alert make sure you have **docker** and **git** in your machine
+**make sure you have **docker** and **git** in your machine**
 
 # Docker command
 > docker ps
