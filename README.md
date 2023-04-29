@@ -4,12 +4,13 @@
 **make sure you have **docker** and **git** in your machine**
 
 # Docker command
-> docker ps
+```
+ docker ps
 
-> docker image ls
+ docker image ls
 
-> docker rm `container name` -f
-
+ docker rm `container name` -f
+```
 
 # Usage
  1. colne repo
