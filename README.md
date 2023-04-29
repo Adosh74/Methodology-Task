@@ -5,7 +5,9 @@
 
 # Docker command
 > docker ps
+
 > docker image ls
+
 > docker rm `container name` -f
 
 
