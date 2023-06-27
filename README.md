@@ -15,7 +15,7 @@
 # Usage
  1. colne repo
     ``` bash
-      clone https://github.com/Adosh74/Methodology-Task.git
+     git clone https://github.com/Adosh74/Methodology-Task.git
     ```
 2. move to folder
    ``` bash
