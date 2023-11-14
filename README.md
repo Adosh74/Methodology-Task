@@ -9,7 +9,7 @@
 
  docker image ls
 
- docker rm `container name` -f
+ docker rm <container name> -f
 ```
 
 # Usage
